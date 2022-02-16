@@ -2,6 +2,6 @@
 
 ```php
 if(!readMe.isEmpty){
-    //push to repo
+    push to repo
 }
 ```
